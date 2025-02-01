@@ -11,7 +11,25 @@ Hi, I'm **Kontala Venkat Sai Kinshuk** (aka **Kinshuk**), a tech enthusiast pass
 ## ⚡ Fun fact:
 Why do programmers prefer dark mode? Because the light attracts bugs! 😄
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/kinshuk-kontala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kinshukkontala" height="30" width="40" /></a>
+<a href="https://www.instagram.com/thechinnakoduku/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thechinnakoduku" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kinshuksai8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinshuksai8" height="30" width="40" /></a>
+</p>
+
 ## 💻 Tech Stack:
+<h2 align="left">💻 Tech Stack:</h2>
+<p align="center">
+  <a href="https://rupali-codes.netlify.app">
+    <img src="https://skillicons.dev/icons?i=c,mysql,python,express,react,nodejs," />
+  </a>
+</p>
+<p align="center">
+  <a href="https://rupali-codes.netlify.app">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,msword" />
+  </a>
+</p>
 
 - **Languages**: Java, JavaScript, Python
 - **Web Development**: HTML, CSS, JS, React, Node.js

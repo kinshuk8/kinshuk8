@@ -2,8 +2,6 @@
 
 Hi, I'm **Kontala Venkat Sai Kinshuk** (aka **kinshuk8**), a tech enthusiast passionate about constant learning and building cool things.
 
-![Coder GIF](https://media.giphy.com/media/26Ff8xnRdc4Z0ODxS/giphy.gif)
-
 ## Connect with me:
 
 - **GitHub**: [https://github.com/kinshuk8](https://github.com/kinshuk8)

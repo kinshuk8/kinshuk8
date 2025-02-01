@@ -1,6 +1,6 @@
 # Welcome to my world! 👋
 
-Hi, I'm **Kontala Venkat Sai Kinshuk** (aka **kinshuk8**), a tech enthusiast passionate about constant learning and building cool things.
+Hi, I'm **Kontala Venkat Sai Kinshuk** (aka **Kinshuk**), a tech enthusiast passionate about constant learning and building cool things.
 
 ## Connect with me:
 

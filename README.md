@@ -18,7 +18,6 @@ Why do programmers prefer dark mode? Because the light attracts bugs! 😄
 <a href="https://www.hackerrank.com/kinshuksai8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kinshuksai8" height="30" width="40" /></a>
 </p>
 
-## 💻 Tech Stack:
 <h2 align="left">💻 Tech Stack:</h2>
 <p align="center">
   <a href="https://rupali-codes.netlify.app">

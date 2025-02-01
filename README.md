@@ -5,7 +5,7 @@ Hi, I'm **Kontala Venkat Sai Kinshuk** (aka **Kinshuk**), a tech enthusiast pass
 ## Connect with me:
 
 - **GitHub**: [https://github.com/kinshuk8](https://github.com/kinshuk8)
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/kinshuk-kontala/)](https://www.linkedin.com/in/kinshuk-kontala/) 
+- **LinkedIn**: [https://www.linkedin.com/in/kinshuk-kontala/](https://www.linkedin.com/in/kinshuk-kontala/) 
 - **Email**: [saikinshuk.kontala@gmail.com](mailto:saikinshuk.kontala@gmail.com) 
 
 ## ⚡ Fun fact:
